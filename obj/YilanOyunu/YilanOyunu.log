@@ -1,0 +1,19 @@
+﻿  Cizilebilir.cpp
+  Hucre.cpp
+  Izgara.cpp
+C:\Users\ismet\Desktop\New folder\Izgara.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ismet\Desktop\New folder\Izgara.cpp(15,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Source.cpp
+  Uygulama.cpp
+C:\Users\ismet\Desktop\New folder\Uygulama.cpp(13,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ismet\Desktop\New folder\Uygulama.cpp(13,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ismet\Desktop\New folder\Uygulama.cpp(14,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ismet\Desktop\New folder\Uygulama.cpp(14,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ismet\Desktop\New folder\Uygulama.cpp(14,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Yilan.cpp
+C:\Users\ismet\Desktop\New folder\Yilan.cpp(53,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ismet\Desktop\New folder\Yilan.cpp(116,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ismet\Desktop\New folder\Yilan.cpp(128,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ismet\Desktop\New folder\Yilan.cpp(129,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  YilanOyunu.vcxproj -> C:\Users\ismet\source\repos\SFMLProjects\bin\YilanOyunu.exe
